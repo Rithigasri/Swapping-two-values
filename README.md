@@ -32,7 +32,7 @@ print("Swapped values are:",num1,num2)
 ```
 
 ## OUTPUT:
-![Output](./excercise1.png)
+![Output](./output.png)
 
 
 
